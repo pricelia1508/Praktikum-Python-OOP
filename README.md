@@ -1,2 +1,3 @@
 # Praktikum-Python-OOP
-Pricelia Putri Sudirman Zulkarnain
+Nama : Pricelia Putri Sudirman Zulkarnain
+NIM : 122140075
